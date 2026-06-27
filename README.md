@@ -5,6 +5,8 @@ Test your memory and reflexes by repeating the color sequence shown by the game.
 
 ---
 
+## 🔗 Check it out: https://arshiltech.github.io/Simon_Game
+
 ## 🎮 How to Play
 1. Press any key to start the game.
 2. Watch the sequence of flashing colors carefully.
